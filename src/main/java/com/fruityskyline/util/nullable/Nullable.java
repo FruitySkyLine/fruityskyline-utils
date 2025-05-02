@@ -1,4 +1,4 @@
-package com.fruityskyline.util;
+package com.fruityskyline.util.nullable;
 
 import java.util.function.Function;
 
